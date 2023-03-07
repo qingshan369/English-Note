@@ -1,3 +1,9 @@
+## 定从的主谓一致
+- “one of+复数名词”位于关系代词前作先行词时，关系代词在从句中作主语，从句的动词通常用复数，但当one前有the,the only,the very等修饰时，从句的谓语动词要用单数。
+
+
+
+
 ## `That`  vs  `Which`  vs  `As`（关代，在从句作成分）
 1. 只用that 不用which
 	1. 当先行词为==不定代词==或==被不定代词修饰==，如：all，little，something，nothing，someone，anyone等
