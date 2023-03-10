@@ -1,7 +1,7 @@
-## until
+## until  到……时，直到……为止
 ![[Pasted image 20230309112130.png]]
 
-## not…until
+## not…until  直到……才
 ![[Pasted image 20230309112155.png]]
 `倒装`
 1. not until提到句首
