@@ -24,6 +24,6 @@
 	![[Pasted image 20230306160406.png]]
 	
 3. 只用as 不用that，which(非限)
-	1. 先行词==含有so，much，as，the same==时
+	1. 先行词==含有so，much，as，the same，such==时
 	![[Pasted image 20230306161206.png]]
 
